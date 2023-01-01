@@ -1,0 +1,37 @@
+img{
+
+height: 40px;
+width: 40px;
+}
+
+.lojas{
+
+    cursor: pointer;
+}
+
+.conta{
+
+    cursor: pointer;
+}
+
+.modal{
+
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+
+.fundo{
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+
+}
+
+.conteudoPop{
+
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
